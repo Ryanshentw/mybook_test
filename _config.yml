@@ -1,0 +1,8 @@
+# Book settings
+title: My Python Jupyter book 
+author: Ryan shen
+logo: pythonlogo.png
+
+latex:
+  latex_documents:
+    targetname: book.tex
